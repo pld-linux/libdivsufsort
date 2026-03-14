@@ -2,7 +2,7 @@ Summary:	Lightweight suffix-sorting library
 Summary(pl.UTF-8):	Lekka biblioteka do sortowania sufiksowego
 Name:		libdivsufsort
 Version:	2.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries
 #Source0Download: https://code.google.com/p/libdivsufsort/downloads/list
